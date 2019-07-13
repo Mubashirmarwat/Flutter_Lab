@@ -1,0 +1,4 @@
+#Sat Jul 13 15:41:15 PKT 2019
+base.0=/Users/adeel/react-native-apps/fraser/flutter_lab/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
